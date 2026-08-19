@@ -104,7 +104,7 @@
                 "last_commit": "2026-08-19T05:31:36Z",
                 "owner": "ruby-grape",
                 "repo": "grape",
-                "stars": 10004
+                "stars": 10005
               }
             },
             {
@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101691
+                "stars": 101693
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-03T17:05:24Z",
                 "owner": "spec-first",
                 "repo": "connexion",
-                "stars": 4609
+                "stars": 4610
               }
             },
             {
@@ -549,7 +549,7 @@
                 "archived": false,
                 "id": 66077955,
                 "language": "Scala",
-                "last_commit": "2026-08-19T12:13:41Z",
+                "last_commit": "2026-08-19T13:43:39Z",
                 "owner": "akka",
                 "repo": "akka-http",
                 "stars": 1350
@@ -619,7 +619,7 @@
                 "last_commit": "2026-07-29T15:57:04Z",
                 "owner": "yesodweb",
                 "repo": "yesod",
-                "stars": 2721
+                "stars": 2722
               }
             },
             {
@@ -738,7 +738,7 @@
                 "last_commit": "2026-08-19T11:09:47Z",
                 "owner": "PostgREST",
                 "repo": "postgrest",
-                "stars": 27608
+                "stars": 27610
               }
             },
             {
@@ -845,7 +845,7 @@
                 "archived": false,
                 "id": 133134007,
                 "language": "Java",
-                "last_commit": "2026-08-19T10:30:12Z",
+                "last_commit": "2026-08-19T12:52:12Z",
                 "owner": "OpenAPITools",
                 "repo": "openapi-generator",
                 "stars": 26679
@@ -1023,7 +1023,7 @@
             "last_commit": "2026-02-01T05:54:12Z",
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36040
+            "stars": 36039
           }
         },
         {
@@ -1053,7 +1053,7 @@
             "last_commit": "2026-08-18T16:30:59Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25882
+            "stars": 25883
           }
         },
         {
@@ -1151,7 +1151,7 @@
                 "last_commit": "2026-08-16T19:17:55Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80056
+                "stars": 80057
               }
             },
             {
@@ -1288,7 +1288,7 @@
             "last_commit": "2026-08-19T06:34:22Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64494
+            "stars": 64496
           }
         },
         {
@@ -1447,10 +1447,10 @@
             "archived": false,
             "id": 36817565,
             "language": "Java",
-            "last_commit": "2026-08-19T10:37:05Z",
+            "last_commit": "2026-08-19T13:23:59Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15636
+            "stars": 15637
           }
         },
         {
@@ -1488,7 +1488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:52.461Z",
+    "last_updated": "2026-08-19T14:18:59.643Z",
     "original_repository": "yosriady/awesome-api-devtools",
     "original_repository_id": 37931557,
     "original_repository_sha": "3df480f29a821076981429a21ecd1b6422687ef7",
