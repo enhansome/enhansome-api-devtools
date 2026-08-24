@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:44:08Z",
             "owner": "OAI",
             "repo": "OpenAPI-Specification",
-            "stars": 31168
+            "stars": 31172
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-08-19T19:11:28Z",
             "owner": "apiaryio",
             "repo": "api-blueprint",
-            "stars": 8634
+            "stars": 8633
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T09:56:59Z",
             "owner": "stoplightio",
             "repo": "spectral",
-            "stars": 3186
+            "stars": 3188
           }
         }
       ],
@@ -101,7 +101,7 @@
                 "archived": false,
                 "id": 812393,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T12:21:54Z",
+                "last_commit": "2026-08-24T08:08:24Z",
                 "owner": "ruby-grape",
                 "repo": "grape",
                 "stars": 10006
@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101783
+                "stars": 101813
               }
             },
             {
@@ -355,10 +355,10 @@
                 "archived": false,
                 "id": 80945428,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T18:21:11Z",
+                "last_commit": "2026-08-24T13:52:44Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76436
+                "stars": 76447
               }
             },
             {
@@ -370,7 +370,7 @@
                 "archived": false,
                 "id": 1661758,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T18:08:05Z",
+                "last_commit": "2026-08-24T13:12:20Z",
                 "owner": "restify",
                 "repo": "node-restify",
                 "stars": 10685
@@ -407,7 +407,7 @@
                 "archived": false,
                 "id": 234231371,
                 "language": "Go",
-                "last_commit": "2026-08-23T14:00:24Z",
+                "last_commit": "2026-08-24T13:05:24Z",
                 "owner": "gofiber",
                 "repo": "fiber",
                 "stars": 40073
@@ -549,7 +549,7 @@
                 "archived": false,
                 "id": 66077955,
                 "language": "Scala",
-                "last_commit": "2026-08-21T14:51:49Z",
+                "last_commit": "2026-08-24T06:53:27Z",
                 "owner": "akka",
                 "repo": "akka-http",
                 "stars": 1350
@@ -604,6 +604,28 @@
           "description": null,
           "node_type": "group",
           "title": "Scala"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Metamug Mason",
+              "description": "Create REST APIs with JSP tags and SQL. Edit and hot deploy REST resources on the server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137570202,
+                "language": "Java",
+                "last_commit": "2023-04-14T17:49:42Z",
+                "owner": "metamug",
+                "repo": "mason",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
         },
         {
           "children": [
@@ -676,6 +698,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Plug",
+              "description": "A specification and conveniences for composable modules between web applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14421569,
+                "language": "Elixir",
+                "last_commit": "2026-08-13T20:01:32Z",
+                "owner": "elixir-plug",
+                "repo": "plug",
+                "stars": 3013
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Cowboy",
               "description": "Small, fast, modular HTTP server written in Erlang.",
               "children": [],
@@ -735,10 +779,10 @@
                 "archived": false,
                 "id": 20787122,
                 "language": "Haskell",
-                "last_commit": "2026-08-22T08:28:29Z",
+                "last_commit": "2026-08-23T17:26:42Z",
                 "owner": "PostgREST",
                 "repo": "postgrest",
-                "stars": 27620
+                "stars": 27623
               }
             },
             {
@@ -760,6 +804,28 @@
           "description": null,
           "node_type": "group",
           "title": "Postgres"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xmysql",
+              "description": "Generate REST APIs for any MySQL Database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371238171,
+                "language": "JavaScript",
+                "last_commit": "2025-06-01T07:05:42Z",
+                "owner": "o1lab",
+                "repo": "xmysql",
+                "stars": 193
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MySQL"
         },
         {
           "children": [
@@ -802,10 +868,10 @@
                 "archived": false,
                 "id": 31790438,
                 "language": "PHP",
-                "last_commit": "2026-08-20T08:14:32Z",
+                "last_commit": "2026-08-24T06:31:59Z",
                 "owner": "api-platform",
                 "repo": "api-platform",
-                "stars": 9178
+                "stars": 9179
               }
             },
             {
@@ -827,6 +893,28 @@
           "description": null,
           "node_type": "group",
           "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dream Factory",
+              "description": "Turn any database into an API platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34855724,
+                "language": "Shell",
+                "last_commit": "2026-08-18T19:49:27Z",
+                "owner": "dreamfactorysoftware",
+                "repo": "dreamfactory",
+                "stars": 1782
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "API Frameworks"
@@ -845,10 +933,10 @@
                 "archived": false,
                 "id": 133134007,
                 "language": "Java",
-                "last_commit": "2026-08-23T07:08:11Z",
+                "last_commit": "2026-08-24T13:21:35Z",
                 "owner": "OpenAPITools",
                 "repo": "openapi-generator",
-                "stars": 26681
+                "stars": 26686
               }
             },
             {
@@ -863,7 +951,7 @@
                 "last_commit": "2026-08-18T13:51:20Z",
                 "owner": "swagger-api",
                 "repo": "swagger-codegen",
-                "stars": 17778
+                "stars": 17777
               }
             },
             {
@@ -900,7 +988,7 @@
                 "last_commit": "2026-08-12T08:14:22Z",
                 "owner": "lostisland",
                 "repo": "faraday",
-                "stars": 5950
+                "stars": 5949
               }
             },
             {
@@ -972,6 +1060,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Restangular",
+              "description": "Restangular is an AngularJS service that simplifies common GET, POST, DELETE, and UPDATE requests with a minimum of client code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9210604,
+                "language": "JavaScript",
+                "last_commit": "2020-10-05T12:55:23Z",
+                "owner": "mgonto",
+                "repo": "restangular",
+                "stars": 7790
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Javascript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "WebAnchor",
               "description": "Web Anchor provides type-safe, testable and flexible access to web resources.",
               "children": [],
@@ -1004,6 +1114,28 @@
           "description": null,
           "node_type": "group",
           "title": ".NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Serverpod",
+              "description": "Serverpod is a next-generation app and web server, built for the Flutter community. It allows you to write your server-side code in Dart, automatically generate your APIs, and hook up your database with minimal effort. Serverpod is open-source, and you can host your server anywhere.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369797101,
+                "language": "Dart",
+                "last_commit": "2026-08-21T22:53:15Z",
+                "owner": "serverpod",
+                "repo": "serverpod",
+                "stars": 3252
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".Dart"
         }
       ],
       "title": "API Client Development Tools"
@@ -1023,7 +1155,7 @@
             "last_commit": "2026-02-01T05:54:12Z",
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36038
+            "stars": 36037
           }
         },
         {
@@ -1035,10 +1167,10 @@
             "archived": false,
             "id": 2055965,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T23:02:14Z",
+            "last_commit": "2026-08-24T08:59:07Z",
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 28980
+            "stars": 28984
           }
         },
         {
@@ -1053,7 +1185,7 @@
             "last_commit": "2026-08-20T14:24:51Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25884
+            "stars": 25886
           }
         },
         {
@@ -1083,7 +1215,7 @@
             "last_commit": "2026-08-20T01:11:48Z",
             "owner": "stoplightio",
             "repo": "elements",
-            "stars": 2452
+            "stars": 2453
           }
         },
         {
@@ -1148,10 +1280,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T05:37:14Z",
+                "last_commit": "2026-08-24T12:30:15Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80080
+                "stars": 80090
               }
             },
             {
@@ -1163,10 +1295,10 @@
                 "archived": false,
                 "id": 290243101,
                 "language": "Rust",
-                "last_commit": "2026-08-23T11:17:33Z",
+                "last_commit": "2026-08-24T04:39:20Z",
                 "owner": "Orange-OpenSource",
                 "repo": "hurl",
-                "stars": 19153
+                "stars": 19155
               }
             },
             {
@@ -1181,16 +1313,88 @@
                 "last_commit": "2026-08-23T04:03:25Z",
                 "owner": "Julien-cpsn",
                 "repo": "ATAC",
-                "stars": 3702
+                "stars": 3703
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Open Source"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "httpy",
+              "description": "Programmable Command line HTTP client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 465264938,
+                "language": "Python",
+                "last_commit": "2023-07-05T22:05:22Z",
+                "owner": "knid",
+                "repo": "httpy",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop"
         }
       ],
       "title": "API Clients"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prism",
+              "description": "a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54172257,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T09:37:03Z",
+                "owner": "stoplightio",
+                "repo": "prism",
+                "stars": 5012
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hosted"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Json-Server",
+              "description": "Full fake REST API with zero coding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14747598,
+                "language": "JavaScript",
+                "last_commit": "2026-03-23T19:40:00Z",
+                "owner": "typicode",
+                "repo": "json-server",
+                "stars": 75687
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop"
+        }
+      ],
+      "title": "API Debugging and Mocking"
     },
     {
       "description": null,
@@ -1207,7 +1411,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23321
+            "stars": 23323
           }
         },
         {
@@ -1237,7 +1441,7 @@
             "last_commit": "2019-06-08T17:00:51Z",
             "owner": "WhiteHouse",
             "repo": "api-standards",
-            "stars": 3087
+            "stars": 3086
           }
         },
         {
@@ -1285,10 +1489,10 @@
             "archived": false,
             "id": 42408804,
             "language": "Go",
-            "last_commit": "2026-08-21T14:00:09Z",
+            "last_commit": "2026-08-24T13:58:06Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64542
+            "stars": 64562
           }
         },
         {
@@ -1399,7 +1603,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23304
+            "stars": 23305
           }
         },
         {
@@ -1414,7 +1618,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17492
+            "stars": 17496
           }
         }
       ],
@@ -1432,10 +1636,10 @@
             "archived": false,
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-23T11:17:33Z",
+            "last_commit": "2026-08-24T04:39:20Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19153
+            "stars": 19155
           }
         },
         {
@@ -1450,7 +1654,7 @@
             "last_commit": "2026-08-21T13:16:22Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15669
+            "stars": 15675
           }
         },
         {
@@ -1485,10 +1689,52 @@
         }
       ],
       "title": "API Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3270642,
+            "language": "CSS",
+            "last_commit": "2018-05-29T16:09:27Z",
+            "owner": "ionwg",
+            "repo": "ion-doc",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "JSON Format Standards"
+    },
+    {
+      "description": "Please write a brief one-sentence summary when adding a new resource.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pull Requests",
+          "description": "are most welcome!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37931557,
+            "language": null,
+            "last_commit": "2025-12-20T03:13:46Z",
+            "owner": "yosriady",
+            "repo": "awesome-api-devtools",
+            "stars": 4016
+          }
+        }
+      ],
+      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:03:13.827Z",
+    "last_updated": "2026-08-24T14:00:24.141Z",
     "original_repository": "yosriady/awesome-api-devtools",
     "original_repository_id": 37931557,
     "original_repository_sha": "3df480f29a821076981429a21ecd1b6422687ef7",
