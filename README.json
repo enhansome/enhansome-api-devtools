@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-19T08:58:11Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101813
+                "stars": 101814
               }
             },
             {
@@ -410,7 +410,7 @@
                 "last_commit": "2026-08-24T13:05:24Z",
                 "owner": "gofiber",
                 "repo": "fiber",
-                "stars": 40073
+                "stars": 40074
               }
             },
             {
@@ -871,7 +871,7 @@
                 "last_commit": "2026-08-24T06:31:59Z",
                 "owner": "api-platform",
                 "repo": "api-platform",
-                "stars": 9179
+                "stars": 9178
               }
             },
             {
@@ -1155,7 +1155,7 @@
             "last_commit": "2026-02-01T05:54:12Z",
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36037
+            "stars": 36036
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-08-24T08:59:07Z",
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 28984
+            "stars": 28985
           }
         },
         {
@@ -1283,7 +1283,7 @@
                 "last_commit": "2026-08-24T12:30:15Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80090
+                "stars": 80089
               }
             },
             {
@@ -1489,7 +1489,7 @@
             "archived": false,
             "id": 42408804,
             "language": "Go",
-            "last_commit": "2026-08-24T13:58:06Z",
+            "last_commit": "2026-08-24T14:40:13Z",
             "owner": "traefik",
             "repo": "traefik",
             "stars": 64562
@@ -1654,7 +1654,7 @@
             "last_commit": "2026-08-21T13:16:22Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15675
+            "stars": 15674
           }
         },
         {
@@ -1734,7 +1734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:24.141Z",
+    "last_updated": "2026-08-24T14:47:42.773Z",
     "original_repository": "yosriady/awesome-api-devtools",
     "original_repository_id": 37931557,
     "original_repository_sha": "3df480f29a821076981429a21ecd1b6422687ef7",
