@@ -12,10 +12,10 @@
             "archived": false,
             "id": 17372733,
             "language": "Markdown",
-            "last_commit": "2026-08-26T23:44:42Z",
+            "last_commit": "2026-08-27T16:41:06Z",
             "owner": "OAI",
             "repo": "OpenAPI-Specification",
-            "stars": 31186
+            "stars": 31187
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 144890632,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:18:10Z",
+            "last_commit": "2026-08-27T12:17:41Z",
             "owner": "stoplightio",
             "repo": "spectral",
             "stars": 3189
@@ -101,10 +101,10 @@
                 "archived": false,
                 "id": 812393,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T08:08:24Z",
+                "last_commit": "2026-08-27T22:04:39Z",
                 "owner": "ruby-grape",
                 "repo": "grape",
-                "stars": 10003
+                "stars": 10004
               }
             },
             {
@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-26T17:54:56Z",
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 101873
+                "stars": 101886
               }
             },
             {
@@ -355,10 +355,10 @@
                 "archived": false,
                 "id": 80945428,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:22:43Z",
+                "last_commit": "2026-08-27T16:55:59Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76472
+                "stars": 76475
               }
             },
             {
@@ -407,10 +407,10 @@
                 "archived": false,
                 "id": 234231371,
                 "language": "Go",
-                "last_commit": "2026-08-27T04:25:08Z",
+                "last_commit": "2026-08-27T21:46:49Z",
                 "owner": "gofiber",
                 "repo": "fiber",
-                "stars": 40093
+                "stars": 40095
               }
             },
             {
@@ -641,7 +641,7 @@
                 "last_commit": "2026-07-29T15:57:04Z",
                 "owner": "yesodweb",
                 "repo": "yesod",
-                "stars": 2724
+                "stars": 2722
               }
             },
             {
@@ -705,7 +705,7 @@
                 "archived": false,
                 "id": 14421569,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T10:55:10Z",
+                "last_commit": "2026-08-27T12:31:12Z",
                 "owner": "elixir-plug",
                 "repo": "plug",
                 "stars": 3013
@@ -797,7 +797,7 @@
                 "last_commit": "2026-08-21T23:17:53Z",
                 "owner": "prest",
                 "repo": "prest",
-                "stars": 4611
+                "stars": 4610
               }
             }
           ],
@@ -933,10 +933,10 @@
                 "archived": false,
                 "id": 133134007,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:07:23Z",
+                "last_commit": "2026-08-27T23:13:39Z",
                 "owner": "OpenAPITools",
                 "repo": "openapi-generator",
-                "stars": 26686
+                "stars": 26688
               }
             },
             {
@@ -951,7 +951,7 @@
                 "last_commit": "2026-08-18T13:51:20Z",
                 "owner": "swagger-api",
                 "repo": "swagger-codegen",
-                "stars": 17780
+                "stars": 17781
               }
             },
             {
@@ -985,7 +985,7 @@
                 "archived": false,
                 "id": 417389,
                 "language": "Ruby",
-                "last_commit": "2026-08-12T08:14:22Z",
+                "last_commit": "2026-08-27T20:19:58Z",
                 "owner": "lostisland",
                 "repo": "faraday",
                 "stars": 5949
@@ -1126,7 +1126,7 @@
                 "archived": false,
                 "id": 369797101,
                 "language": "Dart",
-                "last_commit": "2026-08-26T19:31:12Z",
+                "last_commit": "2026-08-27T19:53:31Z",
                 "owner": "serverpod",
                 "repo": "serverpod",
                 "stars": 3255
@@ -1167,10 +1167,10 @@
             "archived": false,
             "id": 2055965,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T09:21:09Z",
+            "last_commit": "2026-08-27T23:02:51Z",
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 28992
+            "stars": 28994
           }
         },
         {
@@ -1212,10 +1212,10 @@
             "archived": false,
             "id": 184680614,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:24:20Z",
+            "last_commit": "2026-08-27T12:10:16Z",
             "owner": "stoplightio",
             "repo": "elements",
-            "stars": 2453
+            "stars": 2454
           }
         },
         {
@@ -1280,7 +1280,7 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:14:37Z",
+                "last_commit": "2026-08-27T18:30:52Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
                 "stars": 80103
@@ -1295,10 +1295,10 @@
                 "archived": false,
                 "id": 290243101,
                 "language": "Rust",
-                "last_commit": "2026-08-27T04:44:30Z",
+                "last_commit": "2026-08-27T17:24:13Z",
                 "owner": "Orange-OpenSource",
                 "repo": "hurl",
-                "stars": 19160
+                "stars": 19161
               }
             },
             {
@@ -1313,7 +1313,7 @@
                 "last_commit": "2026-08-23T04:03:25Z",
                 "owner": "Julien-cpsn",
                 "repo": "ATAC",
-                "stars": 3704
+                "stars": 3705
               }
             }
           ],
@@ -1363,7 +1363,7 @@
                 "last_commit": "2026-08-26T11:17:50Z",
                 "owner": "stoplightio",
                 "repo": "prism",
-                "stars": 5016
+                "stars": 5017
               }
             }
           ],
@@ -1385,7 +1385,7 @@
                 "last_commit": "2026-03-23T19:40:00Z",
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75692
+                "stars": 75696
               }
             }
           ],
@@ -1411,7 +1411,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23328
+            "stars": 23330
           }
         },
         {
@@ -1489,10 +1489,10 @@
             "archived": false,
             "id": 42408804,
             "language": "Go",
-            "last_commit": "2026-08-26T13:29:23Z",
+            "last_commit": "2026-08-27T14:52:06Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64614
+            "stars": 64622
           }
         },
         {
@@ -1504,7 +1504,7 @@
             "archived": false,
             "id": 8759133,
             "language": "Java",
-            "last_commit": "2026-08-12T21:05:20Z",
+            "last_commit": "2026-08-27T16:32:42Z",
             "owner": "Netflix",
             "repo": "zuul",
             "stars": 14063
@@ -1618,7 +1618,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17502
+            "stars": 17503
           }
         }
       ],
@@ -1636,10 +1636,10 @@
             "archived": false,
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-27T04:44:30Z",
+            "last_commit": "2026-08-27T17:24:13Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19160
+            "stars": 19161
           }
         },
         {
@@ -1651,10 +1651,10 @@
             "archived": false,
             "id": 36817565,
             "language": "Java",
-            "last_commit": "2026-08-27T08:01:46Z",
+            "last_commit": "2026-08-27T15:18:12Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15689
+            "stars": 15694
           }
         },
         {
@@ -1734,7 +1734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:51.757Z",
+    "last_updated": "2026-08-27T23:14:13.687Z",
     "original_repository_info": {
       "archived": false,
       "id": 37931557,
