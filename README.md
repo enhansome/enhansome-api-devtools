@@ -34,7 +34,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Specification Languages
 
-* [OpenAPI (formerly known as Swagger)](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,238 | 🐛 79 | 🌐 Markdown | 📅 2026-09-24
+* [OpenAPI (formerly known as Swagger)](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,242 | 🐛 79 | 🌐 Markdown | 📅 2026-09-24
 * [API Blueprint](https://github.com/apiaryio/api-blueprint) ⚠️ Archived
 * [JSON Schema](http://json-schema.org/)
 * [RAML](https://raml.org/)
@@ -42,7 +42,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Specification Tools
 
 * [Dredd](https://github.com/apiaryio/dredd) ⚠️ Archived: Validate API documentation written in API Blueprint against its backend implementation.
-* [Spectral](https://github.com/stoplightio/spectral) ⭐ 3,216 | 🐛 222 | 🌐 TypeScript | 📅 2026-09-17: Define rulesets to lint YAML or JSON, including OpenAPI 2.x, 3.x and AsyncAPI
+* [Spectral](https://github.com/stoplightio/spectral) ⭐ 3,218 | 🐛 224 | 🌐 TypeScript | 📅 2026-09-17: Define rulesets to lint YAML or JSON, including OpenAPI 2.x, 3.x and AsyncAPI
 * [Swagger Inspector](https://swagger.io/tools/swagger-inspector/): Test and auto-generate OpenAPI documentation for any API.
 * [Swagger Editor](http://editor.swagger.io/): An editor for designing Swagger specifications.
 * [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
@@ -66,18 +66,18 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Ruby
 
-* [grape](https://github.com/ruby-grape/grape) ⭐ 10,007 | 🐛 240 | 🌐 Ruby | 📅 2026-09-25: An opinionated micro-framework for creating REST-like APIs in Ruby.
-* [ActiveModel::Serializer](https://github.com/rails-api/active_model_serializers) ⭐ 5,341 | 🐛 190 | 🌐 Ruby | 📅 2025-12-08: Brings convention over configuration to your JSON generation.
+* [grape](https://github.com/ruby-grape/grape) ⭐ 10,007 | 🐛 246 | 🌐 Ruby | 📅 2026-09-26: An opinionated micro-framework for creating REST-like APIs in Ruby.
+* [ActiveModel::Serializer](https://github.com/rails-api/active_model_serializers) ⭐ 5,342 | 🐛 190 | 🌐 Ruby | 📅 2025-12-08: Brings convention over configuration to your JSON generation.
 * [rails-api](https://github.com/rails-api/rails-api) ⭐ 5,130 | 🐛 13 | 🌐 Ruby | 📅 2021-05-02: Rails for API only applications.
 * [jbuilder](https://github.com/rails/jbuilder) ⭐ 4,421 | 🐛 48 | 🌐 Ruby | 📅 2026-06-01: Create JSON structures via a Builder-style DSL.
 * [rabl](https://github.com/nesquena/rabl) ⭐ 3,627 | 🐛 122 | 🌐 Ruby | 📅 2026-03-18: Generate JSON and XML from any ruby object.
 * [roar](https://github.com/trailblazer/roar) ⭐ 1,836 | 🐛 18 | 🌐 Ruby | 📅 2023-01-17: Parse and render REST API documents using representers.
-* [pliny](https://github.com/interagent/pliny) ⭐ 808 | 🐛 19 | 🌐 Ruby | 📅 2026-04-29: Opinionated template Sinatra app for writing APIs in Ruby.
+* [pliny](https://github.com/interagent/pliny) ⭐ 809 | 🐛 19 | 🌐 Ruby | 📅 2026-04-29: Opinionated template Sinatra app for writing APIs in Ruby.
 
 ### Python
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,611 | 🐛 84 | 🌐 Python | 📅 2026-09-18: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
-* [sanic](https://github.com/channelcat/sanic) ⭐ 18,636 | 🐛 150 | 🌐 Python | 📅 2026-07-29: Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 102,632 | 🐛 82 | 🌐 Python | 📅 2026-09-26: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+* [sanic](https://github.com/channelcat/sanic) ⭐ 18,635 | 🐛 150 | 🌐 Python | 📅 2026-07-29: Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 * [Falcon](https://github.com/falconry/falcon) ⭐ 9,804 | 🐛 158 | 🌐 Python | 📅 2026-09-25: Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.
 * [flask-restful](https://github.com/flask-restful/flask-restful) ⭐ 6,912 | 🐛 144 | 🌐 Python | 📅 2024-07-19: Simple framework for creating REST APIs.
 * [hug](https://github.com/timothycrosley/hug) ⭐ 6,878 | 🐛 189 | 🌐 Python | 📅 2024-07-04: hug aims to make developing Python driven APIs as simple as possible, but no simpler.
@@ -89,8 +89,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Javascript
 
-* [Nest](https://github.com/kamilmysliwiec/nest) ⭐ 76,731 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-25: A modern node.js framework for efficient and scalable web applications built on top of TypeScript
-* [Restify](https://github.com/restify/node-restify) ⭐ 10,688 | 🐛 132 | 🌐 JavaScript | 📅 2026-09-04: Node.js REST framework specifically meant for web service APIs.
+* [Nest](https://github.com/kamilmysliwiec/nest) ⭐ 76,736 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-26: A modern node.js framework for efficient and scalable web applications built on top of TypeScript
+* [Restify](https://github.com/restify/node-restify) ⭐ 10,689 | 🐛 132 | 🌐 JavaScript | 📅 2026-09-04: Node.js REST framework specifically meant for web service APIs.
 * [Deployd](https://github.com/deployd/deployd) ⭐ 4,938 | 🐛 135 | 🌐 JavaScript | 📅 2019-04-16: Deployd is the simplest way to build realtime APIs for web and mobile apps
 * [hapi.js](https://hapijs.com/): Web and services application framework for Node.js.
 * [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
@@ -105,7 +105,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Go
 
 * [Fiber](https://github.com/gofiber/fiber) ⭐ 40,183 | 🐛 26 | 🌐 Go | 📅 2026-09-25: :zap:Fiber is an Express inspired web framework written in Go with :coffee: .
-* [go-restful](https://github.com/emicklei/go-restful) ⭐ 5,115 | 🐛 2 | 🌐 Go | 📅 2026-09-07: A declarative highly readable framework for building restful API's.
+* [go-restful](https://github.com/emicklei/go-restful) ⭐ 5,114 | 🐛 2 | 🌐 Go | 📅 2026-09-07: A declarative highly readable framework for building restful API's.
 * [Go-Json-Rest](https://github.com/ant0ine/go-json-rest) ⭐ 3,486 | 🐛 45 | 🌐 Go | 📅 2021-01-23: Thin layer on top of `net/http` that helps building RESTful APIs easily
 * [sleepy](https://github.com/dougblack/sleepy) ⭐ 669 | 🐛 10 | 🌐 Go | 📅 2017-11-26: RESTful micro-framework written in Go.
 * [gocrud](https://github.com/manishrjain/gocrud) ⭐ 307 | 🐛 7 | 🌐 Go | 📅 2019-03-01: Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
@@ -137,7 +137,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Haskell
 
-* [Yesod](https://github.com/yesodweb/yesod) ⭐ 2,725 | 🐛 135 | 🌐 Haskell | 📅 2026-09-18: The Haskell RESTful web framework.
+* [Yesod](https://github.com/yesodweb/yesod) ⭐ 2,726 | 🐛 136 | 🌐 Haskell | 📅 2026-09-18: The Haskell RESTful web framework.
 * [Servant](https://github.com/haskell-servant/servant) ⭐ 1,965 | 🐛 299 | 🌐 Haskell | 📅 2026-09-17: A Type-Level Web DSL.
 * [Scotty](https://github.com/scotty-web/scotty) ⭐ 1,774 | 🐛 29 | 🌐 Haskell | 📅 2026-06-26: Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
 * [Spock](https://github.com/agrafix/Spock) ⭐ 677 | 🐛 3 | 🌐 Haskell | 📅 2026-09-06: Another Haskell web framework for rapid development.
@@ -155,7 +155,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Postgres
 
-* [PostgREST](https://github.com/begriffs/postgrest) ⭐ 27,677 | 🐛 404 | 🌐 Haskell | 📅 2026-09-24: Serve a RESTful API from any existing PostgreSQL database.
+* [PostgREST](https://github.com/begriffs/postgrest) ⭐ 27,683 | 🐛 405 | 🌐 Haskell | 📅 2026-09-26: Serve a RESTful API from any existing PostgreSQL database.
 * [pREST](https://github.com/prest/prest) ⭐ 4,618 | 🐛 155 | 🌐 Go | 📅 2026-09-25: pREST is a way to serve a RESTful API from any databases written in Go.
 
 ### MySQL
@@ -164,8 +164,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### PHP
 
-* [Yii2 Framework](https://github.com/yiisoft/yii2) ⭐ 14,291 | 🐛 332 | 🌐 PHP | 📅 2026-09-25: Provides a whole set of tools to simplify the task of implementing RESTful Web Service APIs
-* [Dingo API](https://github.com/dingo/api) ⭐ 9,375 | 🐛 189 | 🌐 PHP | 📅 2022-05-19: A RESTful API package for the Laravel and Lumen frameworks
+* [Yii2 Framework](https://github.com/yiisoft/yii2) ⭐ 14,291 | 🐛 331 | 🌐 PHP | 📅 2026-09-26: Provides a whole set of tools to simplify the task of implementing RESTful Web Service APIs
+* [Dingo API](https://github.com/dingo/api) ⭐ 9,376 | 🐛 189 | 🌐 PHP | 📅 2022-05-19: A RESTful API package for the Laravel and Lumen frameworks
 * [API Platform](https://github.com/api-platform/api-platform) ⭐ 9,186 | 🐛 3 | 🌐 PHP | 📅 2026-09-01: API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
 * [Fractal](https://github.com/thephpleague/fractal) ⭐ 3,545 | 🐛 54 | 🌐 PHP | 📅 2025-12-16: Fractal provides a presentation and transformation layer for complex data output, the like found in RESTful APIs, and works really well with JSON
 
@@ -179,13 +179,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Miscellaneous
 
-* [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory) ⭐ 1,789 | 🐛 1 | 🌐 Shell | 📅 2026-09-24: Turn any database into an API platform.
+* [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory) ⭐ 1,788 | 🐛 1 | 🌐 Shell | 📅 2026-09-24: Turn any database into an API platform.
 
 ## API Client Development Tools
 
 ### General
 
-* [OpenAPI Generator](https://github.com/openapitools/openapi-generator) ⭐ 26,762 | 🐛 5,734 | 🌐 Java | 📅 2026-09-25: A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
+* [OpenAPI Generator](https://github.com/openapitools/openapi-generator) ⭐ 26,763 | 🐛 5,737 | 🌐 Java | 📅 2026-09-25: A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
 * [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen) ⭐ 17,787 | 🐛 3,444 | 🌐 Mustache | 📅 2026-08-18: Generate client libraries automatically from a Swagger-compliant server.
 * [AutoRest](https://github.com/Azure/autorest) ⭐ 4,797 | 🐛 22 | 🌐 TypeSpec | 📅 2026-09-25: Generate client libraries for RESTful web services
 
@@ -213,14 +213,14 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### .Dart
 
-* [Serverpod](https://github.com/serverpod/serverpod) ⭐ 3,295 | 🐛 488 | 🌐 Dart | 📅 2026-09-25: Serverpod is a next-generation app and web server, built for the Flutter community. It allows you to write your server-side code in Dart, automatically generate your APIs, and hook up your database with minimal effort. Serverpod is open-source, and you can host your server anywhere.
+* [Serverpod](https://github.com/serverpod/serverpod) ⭐ 3,297 | 🐛 481 | 🌐 Dart | 📅 2026-09-25: Serverpod is a next-generation app and web server, built for the Flutter community. It allows you to write your server-side code in Dart, automatically generate your APIs, and hook up your database with minimal effort. Serverpod is open-source, and you can host your server anywhere.
 * [Frog](https://dartfrog.vgv.dev/docs/overview): Dart Frog is built on top of shelf and mason and is inspired by many tools including remix.run, next.js, and express.js.
 
 ## API Documentation
 
 * [Slate](https://github.com/lord/slate) ⚠️ Archived: Static site generated documentation for your API.
-* [Swagger UI](https://github.com/swagger-api/swagger-ui) ⭐ 29,023 | 🐛 1,133 | 🌐 JavaScript | 📅 2026-09-21: Dynamically generate documentation from a Swagger-compliant API.
-* [ReDoc](https://github.com/Rebilly/ReDoc) ⭐ 25,923 | 🐛 444 | 🌐 TypeScript | 📅 2026-09-24: OpenAPI/Swagger-generated API Reference Documentation.
+* [Swagger UI](https://github.com/swagger-api/swagger-ui) ⭐ 29,026 | 🐛 1,134 | 🌐 JavaScript | 📅 2026-09-25: Dynamically generate documentation from a Swagger-compliant API.
+* [ReDoc](https://github.com/Rebilly/ReDoc) ⭐ 25,925 | 🐛 444 | 🌐 TypeScript | 📅 2026-09-24: OpenAPI/Swagger-generated API Reference Documentation.
 * [Aglio](https://github.com/danielgtaylor/aglio) ⭐ 4,746 | 🐛 134 | 🌐 CoffeeScript | 📅 2019-05-13: An API Blueprint renderer with theme support that outputs static HTML.
 * [Elements](https://github.com/stoplightio/elements) ⭐ 2,466 | 🐛 254 | 🌐 TypeScript | 📅 2026-09-24: Web Components-based API documentation for OpenAPI 3.x/2.x
 * [prmd](https://github.com/interagent/prmd) ⭐ 2,090 | 🐛 75 | 🌐 Ruby | 📅 2025-02-06: JSON Schema tooling: scaffold, verify, and generate documentation from JSON Schema documents.
@@ -235,8 +235,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Open Source
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,511 | 🐛 833 | 🌐 TypeScript | 📅 2026-09-25: API client for REST, GraphQL, Websocket, SSE, Socket.IO and MQTT
-* [Hurl](https://github.com/Orange-OpenSource/hurl) ⭐ 19,220 | 🐛 197 | 🌐 Rust | 📅 2026-09-25: Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,520 | 🐛 835 | 🌐 TypeScript | 📅 2026-09-26: API client for REST, GraphQL, Websocket, SSE, Socket.IO and MQTT
+* [Hurl](https://github.com/Orange-OpenSource/hurl) ⭐ 19,220 | 🐛 197 | 🌐 Rust | 📅 2026-09-26: Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
 * [ATAC](https://github.com/Julien-cpsn/ATAC) ⭐ 3,730 | 🐛 22 | 🌐 Rust | 📅 2026-09-03: A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 
 ### Hosted
@@ -256,7 +256,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Hosted
 
-* [Prism](https://github.com/stoplightio/prism) ⭐ 5,038 | 🐛 147 | 🌐 TypeScript | 📅 2026-09-21: a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.
+* [Prism](https://github.com/stoplightio/prism) ⭐ 5,041 | 🐛 147 | 🌐 TypeScript | 📅 2026-09-21: a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.
 * [Beeceptor](https://beeceptor.com): An HTTP-proxy for rest APIs - inspect and build mock APIs.
 * [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 * [httpbin](http://httpbin.org): Templated responses for testing various scenarios for HTTP requests.
@@ -265,13 +265,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Desktop
 
-* [Json-Server](https://github.com/typicode/json-server) ⭐ 75,719 | 🐛 721 | 🌐 JavaScript | 📅 2026-03-23 Full fake REST API with zero coding.
+* [Json-Server](https://github.com/typicode/json-server) ⭐ 75,719 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23 Full fake REST API with zero coding.
 * [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 * [Mockoon](https://mockoon.com): Desktop API mocking tool.
 
 ## API Design Guides
 
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md) ⭐ 23,335 | 🐛 180 | 📅 2026-08-05
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md) ⭐ 23,336 | 🐛 180 | 📅 2026-08-05
 * [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design) ⭐ 13,684 | 🐛 30 | 📅 2024-01-16
 * [White House Web API Standards](https://github.com/whitehouse/api-standards) ⚠️ Archived
 * [18F API Standards](https://github.com/18f/api-standards) ⚠️ Archived
@@ -290,7 +290,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Gateways
 
-* [Traefik](https://github.com/containous/traefik) ⭐ 64,966 | 🐛 931 | 🌐 Go | 📅 2026-09-25: Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer written in Go.
+* [Traefik](https://github.com/containous/traefik) ⭐ 64,974 | 🐛 932 | 🌐 Go | 📅 2026-09-25: Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer written in Go.
 * [Zuul](https://github.com/Netflix/zuul) ⭐ 14,082 | 🐛 13 | 🌐 Java | 📅 2026-09-25: An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 * [fabio](https://github.com/fabiolb/fabio) ⭐ 7,344 | 🐛 242 | 🌐 Go | 📅 2026-09-24: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by [consul](https://www.consul.io) by eBay.
 * [Oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,605 | 🐛 107 | 🌐 Go | 📅 2026-07-27: OIdentity & Access Proxy (IAP) that authorizes HTTP requests based on sets of rules. Integrates with ORY Hydra.
@@ -330,8 +330,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Testing
 
-* [Hurl](https://github.com/Orange-OpenSource/hurl) ⭐ 19,220 | 🐛 197 | 🌐 Rust | 📅 2026-09-25: Hurl makes it easy to test HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
-* [OWASP Zaproxy](https://github.com/zaproxy/zaproxy) ⭐ 15,826 | 🐛 862 | 🌐 Java | 📅 2026-09-24: A tool to test your API for known security vulnerabilities, with a great CI integration.
+* [Hurl](https://github.com/Orange-OpenSource/hurl) ⭐ 19,220 | 🐛 197 | 🌐 Rust | 📅 2026-09-26: Hurl makes it easy to test HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
+* [OWASP Zaproxy](https://github.com/zaproxy/zaproxy) ⭐ 15,831 | 🐛 862 | 🌐 Java | 📅 2026-09-24: A tool to test your API for known security vulnerabilities, with a great CI integration.
 * [Pyresttest](https://github.com/svanoort/pyresttest) ⭐ 1,165 | 🐛 132 | 🌐 Python | 📅 2021-06-10: YAML based REST testing and API microbenchmarking tool
 * [RestQA](https://github.com/restqa/restqa) ⭐ 93 | 🐛 18 | 🌐 JavaScript | 📅 2024-09-13: Microservice API Testing tool focused on providing a great developer experience.
 * [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
@@ -383,7 +383,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## Contributing
 
-[Pull Requests](https://github.com/yosriady/api-development-tools/pulls) ⭐ 4,016 | 🐛 55 | 📅 2025-12-20 are most welcome!
+[Pull Requests](https://github.com/yosriady/api-development-tools/pulls) ⭐ 4,016 | 🐛 56 | 📅 2025-12-20 are most welcome!
 
 Please write a brief one-sentence summary when adding a new resource.
 
@@ -401,4 +401,4 @@ Authored and maintained by Yos Riady with help from contributors ([list][contrib
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
