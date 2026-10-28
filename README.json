@@ -47,7 +47,7 @@
             "open_issues": 66,
             "owner": "apiaryio",
             "repo": "api-blueprint",
-            "stars": 8624,
+            "stars": 8623,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.744Z"
@@ -74,7 +74,7 @@
             "open_issues": 260,
             "owner": "apiaryio",
             "repo": "dredd",
-            "stars": 4217,
+            "stars": 4215,
             "topics": [
               "api",
               "api-blueprint",
@@ -161,7 +161,7 @@
                 "open_issues": 240,
                 "owner": "ruby-grape",
                 "repo": "grape",
-                "stars": 10013,
+                "stars": 10012,
                 "topics": [
                   "api",
                   "grape",
@@ -187,7 +187,7 @@
                 "open_issues": 190,
                 "owner": "rails-api",
                 "repo": "active_model_serializers",
-                "stars": 5343,
+                "stars": 5341,
                 "topics": [
                   "json",
                   "resource-serializer",
@@ -233,7 +233,7 @@
                 "open_issues": 50,
                 "owner": "rails",
                 "repo": "jbuilder",
-                "stars": 4420,
+                "stars": 4419,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.744Z"
@@ -254,7 +254,7 @@
                 "open_issues": 121,
                 "owner": "nesquena",
                 "repo": "rabl",
-                "stars": 3627,
+                "stars": 3626,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.744Z"
@@ -275,7 +275,7 @@
                 "open_issues": 18,
                 "owner": "trailblazer",
                 "repo": "roar",
-                "stars": 1835,
+                "stars": 1834,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.744Z"
@@ -321,10 +321,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-27T04:56:28Z",
-                "open_issues": 57,
+                "open_issues": 56,
                 "owner": "fastapi",
                 "repo": "fastapi",
-                "stars": 104140,
+                "stars": 104245,
                 "topics": [
                   "api",
                   "async",
@@ -366,7 +366,7 @@
                 "open_issues": 160,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18632,
+                "stars": 18631,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -397,7 +397,7 @@
                 "open_issues": 160,
                 "owner": "falconry",
                 "repo": "falcon",
-                "stars": 9809,
+                "stars": 9810,
                 "topics": [
                   "api",
                   "api-rest",
@@ -501,7 +501,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T18:54:54Z",
-                "open_issues": 195,
+                "open_issues": 198,
                 "owner": "spec-first",
                 "repo": "connexion",
                 "stars": 4612,
@@ -586,11 +586,11 @@
                 "id": 80945428,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T12:04:19Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-28T18:58:47Z",
+                "open_issues": 24,
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76921,
+                "stars": 76932,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -674,11 +674,11 @@
                 "id": 234231371,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-27T14:22:28Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-28T18:48:56Z",
+                "open_issues": 27,
                 "owner": "gofiber",
                 "repo": "fiber",
-                "stars": 40231,
+                "stars": 40233,
                 "topics": [
                   "express",
                   "expressjs",
@@ -1163,7 +1163,7 @@
                 "open_issues": 5,
                 "owner": "elixir-plug",
                 "repo": "plug",
-                "stars": 3020,
+                "stars": 3019,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.744Z"
@@ -1277,11 +1277,11 @@
                 "id": 20787122,
                 "language": "Haskell",
                 "license": "MIT",
-                "last_commit": "2026-10-26T20:40:35Z",
-                "open_issues": 407,
+                "last_commit": "2026-10-28T18:20:00Z",
+                "open_issues": 406,
                 "owner": "PostgREST",
                 "repo": "postgrest",
-                "stars": 27731,
+                "stars": 27733,
                 "topics": [
                   "api",
                   "automatic-api",
@@ -1316,7 +1316,7 @@
                 "open_issues": 150,
                 "owner": "prest",
                 "repo": "prest",
-                "stars": 4629,
+                "stars": 4630,
                 "topics": [
                   "api",
                   "baas",
@@ -1390,10 +1390,10 @@
                 "language": "PHP",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-24T08:38:15Z",
-                "open_issues": 300,
+                "open_issues": 301,
                 "owner": "yiisoft",
                 "repo": "yii2",
-                "stars": 14280,
+                "stars": 14278,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -1421,7 +1421,7 @@
                 "open_issues": 189,
                 "owner": "dingo",
                 "repo": "api",
-                "stars": 9386,
+                "stars": 9385,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.744Z"
@@ -1484,7 +1484,7 @@
                 "open_issues": 54,
                 "owner": "thephpleague",
                 "repo": "fractal",
-                "stars": 3541,
+                "stars": 3540,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:29.744Z"
@@ -1553,11 +1553,11 @@
                 "id": 133134007,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T09:40:00Z",
-                "open_issues": 5797,
+                "last_commit": "2026-10-28T18:07:36Z",
+                "open_issues": 5799,
                 "owner": "OpenAPITools",
                 "repo": "openapi-generator",
-                "stars": 26832,
+                "stars": 26838,
                 "topics": [
                   "api",
                   "api-client",
@@ -1592,7 +1592,7 @@
                 "open_issues": 3441,
                 "owner": "swagger-api",
                 "repo": "swagger-codegen",
-                "stars": 17794,
+                "stars": 17793,
                 "topics": [
                   "open-source",
                   "openapi-specification",
@@ -1622,7 +1622,7 @@
                 "open_issues": 22,
                 "owner": "Azure",
                 "repo": "autorest",
-                "stars": 4790,
+                "stars": 4791,
                 "topics": [
                   "azure",
                   "code-generator",
@@ -1853,11 +1853,11 @@
                 "id": 369797101,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T15:13:41Z",
-                "open_issues": 502,
+                "last_commit": "2026-10-27T20:30:35Z",
+                "open_issues": 509,
                 "owner": "serverpod",
                 "repo": "serverpod",
-                "stars": 3319,
+                "stars": 3321,
                 "topics": [
                   "backend",
                   "dart",
@@ -1898,7 +1898,7 @@
             "open_issues": 50,
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36003,
+            "stars": 36002,
             "topics": [
               "api",
               "api-documentation",
@@ -1920,11 +1920,11 @@
             "id": 2055965,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T17:31:00Z",
-            "open_issues": 1152,
+            "last_commit": "2026-10-28T12:38:41Z",
+            "open_issues": 1157,
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 29051,
+            "stars": 29056,
             "topics": [
               "hacktoberfest",
               "oas",
@@ -1961,7 +1961,7 @@
             "open_issues": 338,
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25984,
+            "stars": 25987,
             "topics": [
               "api-documentation",
               "documentation-generator",
@@ -2011,8 +2011,8 @@
             "id": 184680614,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T14:46:36Z",
-            "open_issues": 254,
+            "last_commit": "2026-10-28T10:05:48Z",
+            "open_issues": 255,
             "owner": "stoplightio",
             "repo": "elements",
             "stars": 2472,
@@ -2048,7 +2048,7 @@
             "open_issues": 75,
             "owner": "interagent",
             "repo": "prmd",
-            "stars": 2086,
+            "stars": 2085,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:29.744Z"
@@ -2124,11 +2124,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T16:44:19Z",
-                "open_issues": 878,
+                "last_commit": "2026-10-28T18:02:28Z",
+                "open_issues": 877,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80700,
+                "stars": 80706,
                 "topics": [
                   "api",
                   "api-client",
@@ -2164,11 +2164,11 @@
                 "id": 290243101,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T15:15:37Z",
-                "open_issues": 198,
+                "last_commit": "2026-10-28T15:32:57Z",
+                "open_issues": 197,
                 "owner": "Orange-OpenSource",
                 "repo": "hurl",
-                "stars": 19282,
+                "stars": 19284,
                 "topics": [
                   "api-testing",
                   "cli",
@@ -2198,7 +2198,7 @@
                 "open_issues": 20,
                 "owner": "Julien-cpsn",
                 "repo": "ATAC",
-                "stars": 3741,
+                "stars": 3742,
                 "topics": [
                   "api",
                   "api-client",
@@ -2288,7 +2288,7 @@
                 "open_issues": 141,
                 "owner": "stoplightio",
                 "repo": "prism",
-                "stars": 5059,
+                "stars": 5061,
                 "topics": [
                   "api-testing",
                   "cli",
@@ -2332,7 +2332,7 @@
                 "open_issues": 723,
                 "owner": "typicode",
                 "repo": "json-server",
-                "stars": 75740,
+                "stars": 75738,
                 "topics": [
                   "api",
                   "fake",
@@ -2372,7 +2372,7 @@
             "open_issues": 182,
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23341,
+            "stars": 23340,
             "topics": [
               "api",
               "guidelines",
@@ -2498,11 +2498,11 @@
             "id": 42408804,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:26:31Z",
-            "open_issues": 965,
+            "last_commit": "2026-10-28T15:58:07Z",
+            "open_issues": 975,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 65391,
+            "stars": 65400,
             "topics": [
               "consul",
               "docker",
@@ -2555,11 +2555,11 @@
             "id": 44397318,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T04:43:25Z",
+            "last_commit": "2026-10-28T05:37:53Z",
             "open_issues": 251,
             "owner": "fabiolb",
             "repo": "fabio",
-            "stars": 7347,
+            "stars": 7346,
             "topics": [
               "consul",
               "docker",
@@ -2587,7 +2587,7 @@
             "open_issues": 107,
             "owner": "ory",
             "repo": "oathkeeper",
-            "stars": 3606,
+            "stars": 3607,
             "topics": [
               "api-gateway",
               "golang",
@@ -2692,7 +2692,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23338,
+            "stars": 23337,
             "topics": [
               "api",
               "jwt",
@@ -2715,10 +2715,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-07-29T09:30:11Z",
-            "open_issues": 93,
+            "open_issues": 92,
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17634,
+            "stars": 17636,
             "topics": [
               "authorization",
               "cloud",
@@ -2762,11 +2762,11 @@
             "id": 290243101,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T15:15:37Z",
-            "open_issues": 198,
+            "last_commit": "2026-10-28T15:32:57Z",
+            "open_issues": 197,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19282,
+            "stars": 19284,
             "topics": [
               "api-testing",
               "cli",
@@ -2792,11 +2792,11 @@
             "id": 36817565,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T15:46:51Z",
-            "open_issues": 871,
+            "last_commit": "2026-10-28T15:31:23Z",
+            "open_issues": 872,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 16045,
+            "stars": 16058,
             "topics": [
               "appsec",
               "dast",
@@ -2908,7 +2908,7 @@
             "open_issues": 68,
             "owner": "yosriady",
             "repo": "awesome-api-devtools",
-            "stars": 4013,
+            "stars": 4014,
             "topics": [
               "api",
               "api-client",
@@ -2926,7 +2926,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:00:13.710Z",
+    "last_updated": "2026-10-28T19:08:31.834Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A collection of useful resources for building RESTful HTTP+JSON APIs.",
@@ -2938,7 +2938,7 @@
       "open_issues": 68,
       "owner": "yosriady",
       "repo": "awesome-api-devtools",
-      "stars": 4013,
+      "stars": 4014,
       "topics": [
         "api",
         "api-client",
